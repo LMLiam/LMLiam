@@ -4,8 +4,6 @@
 
 **I build DSLs and developer tooling in Kotlin, Java and Go.**
 
-<a href="https://github.com/LMLiam"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-LMLiam-181717?style=flat-square&logo=github" /></a>
-
 </div>
 
 <hr>
@@ -37,7 +35,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/LMLiam/Kotventure">Kotventure</a></h3>
       <p>Batteries-included Kotlin DSL for Adventure-native Minecraft text, UI, messaging, and testing tools.</p>
-      <a href="https://github.com/LMLiam/Kotventure/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/LMLiam/Kotventure?style=flat-square&label=release" /></a>
+      <a href="https://github.com/LMLiam/Kotventure/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/LMLiam/Kotventure?style=flat-square&label=release" /></a>
       <a href="https://github.com/LMLiam/Kotventure"><img alt="Top language" src="https://img.shields.io/github/languages/top/LMLiam/Kotventure?style=flat-square" /></a>
     </td>
   </tr>
